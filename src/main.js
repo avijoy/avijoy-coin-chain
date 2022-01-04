@@ -15,7 +15,7 @@ avijoyCoin.addTransactions(tx1);
 console.log("Starting the miner");
 //avijoyCoin.minePendingTransactions('demo-adress');
 avijoyCoin.minePendingTransactions(myWalletAddress);
-
+//new commit
 
 //console.log("Starting the miner");
 //avijoyCoin.minePendingTransactions('demo-adress');
